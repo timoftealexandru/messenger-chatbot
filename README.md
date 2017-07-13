@@ -1,1 +1,3 @@
-# messenger-chatbot
+# Facebook Messenger bot 🤖
+
+#### Hosted on Heroku
